@@ -1,0 +1,1 @@
+konfigurasinya ada pada file .env dan config/database.php

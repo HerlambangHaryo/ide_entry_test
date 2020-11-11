@@ -1,0 +1,3 @@
+env berisi konfigurasi atau pengaturan-pengaturan project laravel kita. semua konfigurasi di gabung di dalam file . env ini. Salah satu tujuannya agar memudahkan kita dalam mengubah pengaturan yang ingin kita sesuaikan dengan project aplikasi yang ingin kita buat dengan laravel.
+
+Folder ini berisi konfigurasi dari sistem core Laravel maupun package tambahan. Misalnya file app.php yang akan sering di akses untuk mendaftarkan package tambahan di laravel.

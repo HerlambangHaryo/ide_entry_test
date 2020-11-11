@@ -1,0 +1,2 @@
+INSERT INTO `school` (`id`, `school_code`, `school_name`, `inaugurated_date`) VALUES (NULL, 'SCH01', 'Sekolah IDE 01', '2020-11-11');
+

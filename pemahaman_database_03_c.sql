@@ -1,0 +1,1 @@
+SELECT school_name, count(*) as count_inaugurated_date FROM `school` group by inaugurated_date
